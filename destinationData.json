@@ -1,0 +1,37 @@
+[
+    {
+        "destination": "Dubai City",
+        "date": "16 Aug,2024",
+        "type": "Business Class",
+        "image": "https://github.com/faisalbs1527/dummyData/blob/d230d36e7457dce677e060d49756c05ffa6d54e1/NextTrip/Pictures/dubai.jpg"
+        "amountFrom": "$3100.00"
+    },
+    {
+        "destination": "Phi Phi Island",
+        "date": "16 Aug,2024",
+        "type": "Business/First Class",
+        "image": "https://github.com/faisalbs1527/dummyData/blob/d230d36e7457dce677e060d49756c05ffa6d54e1/NextTrip/Pictures/phiphi.jpg"
+        "amountFrom": "$1100.00"
+    },
+    {
+        "destination": "Kashmir",
+        "date": "16 Sep,2024",
+        "type": "Business/First Class",
+        "image": "https://github.com/faisalbs1527/dummyData/blob/d230d36e7457dce677e060d49756c05ffa6d54e1/NextTrip/Pictures/kashmir.jpg"
+        "amountFrom": "$1400.00"
+    },
+    {
+        "destination": "Manali City",
+        "date": "18 Aug,2024",
+        "type": "Business/First Class",
+        "image": "https://github.com/faisalbs1527/dummyData/blob/d230d36e7457dce677e060d49756c05ffa6d54e1/NextTrip/Pictures/manali.jpg"
+        "amountFrom": "$2200.00"
+    },
+    {
+        "destination": "Gangtok",
+        "date": "16 Aug,2024",
+        "type": "Business Class",
+        "image": "https://github.com/faisalbs1527/dummyData/blob/d230d36e7457dce677e060d49756c05ffa6d54e1/NextTrip/Pictures/gantok.jpg"
+        "amountFrom": "$1540.00"
+    },
+]
