@@ -9,6 +9,8 @@
             "description": "Nestled along the pristine shores of Cox's Bazar, Beachfront Paradise Hotel offers a luxurious escape with stunning ocean views. Enjoy a day on the private beach or relax in the swimming pool. The hotel's spa and restaurant provide a perfect blend of relaxation and gourmet dining.",
             "check_in_time": "12:00 PM",
             "check_out_time": "11:00 AM",
+            "start_price_discount": 6000,
+            "start_price_actual": 8000,
             "policies": {
                 "cancellation_policy": "Free cancellation up to 24 hours before check-in.",
                 "pets": "Pets are not allowed.",
@@ -155,6 +157,8 @@
             "description": "Overlooking the picturesque Bay of Bengal, Cox's Bay Resort offers a blend of comfort and modern amenities. Guests can unwind with access to a private beach and an inviting swimming pool. The resort’s gym and daily breakfast ensure a pleasant and active stay.",
             "check_in_time": "12:00 PM",
             "check_out_time": "11:00 AM",
+            "start_price_discount": 12000,
+            "start_price_actual": 10000,
             "policies": {
                 "cancellation_policy": "Cancellation within 48 hours of check-in may incur a fee.",
                 "pets": "Pets are not permitted.",
@@ -301,6 +305,8 @@
             "description": "Seaside Comfort Inn provides a cozy and comfortable stay with its well-appointed rooms and convenient amenities. Guests can enjoy complimentary access to the fitness center and beach towels for a refreshing beach day. Tea and coffee-making facilities are provided in each room.",
             "check_in_time": "12:00 PM",
             "check_out_time": "11:00 AM",
+            "start_price_discount": 9000,
+            "start_price_actual": 7000,
             "policies": {
                 "cancellation_policy": "Free cancellation up to 24 hours before arrival.",
                 "pets": "Pets are not allowed.",
@@ -446,6 +452,8 @@
             "description": "Royal Tulip Hotel is a high-end retreat offering exceptional service and luxury. Enjoy access to a state-of-the-art fitness center, unwind with a spa session, or experience the evening turn-down service. Its elegant rooms and attentive staff provide a premium hospitality experience.",
             "check_in_time": "12:00 PM",
             "check_out_time": "11:00 AM",
+            "start_price_discount": 12000,
+            "start_price_actual": 10000,
             "policies": {
                 "cancellation_policy": "No charge for cancellations made up to 48 hours before arrival.",
                 "pets": "Not allowed.",
