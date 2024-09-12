@@ -1,0 +1,99 @@
+{
+    "carLocations": [
+        {
+            "latitude": 23.77695924969011,
+            "longitude": 90.39700328337875,
+            "rotation": 0.0
+        },
+        {
+            "latitude": 23.77613113123303,
+            "longitude": 90.39247866297734,
+            "rotation": 90.0
+        },
+        {
+            "latitude": 23.766429922374797,
+            "longitude": 90.401269354043,
+            "rotation": 180.0
+        },
+        {
+            "latitude": 23.774356573926013,
+            "longitude": 90.41122351892608,
+            "rotation": 90.0
+        },
+        {
+            "latitude": 23.77908867293702,
+            "longitude": 90.40592324931299,
+            "rotation": -90.0
+        },
+        {
+            "latitude": 23.788788937544666,
+            "longitude": 90.3887296917876,
+            "rotation": 0.0
+        },
+        {
+            "latitude": 23.804639031342276,
+            "longitude": 90.39713255824739,
+            "rotation": 0.0
+        },
+        {
+            "latitude": 23.824250724150644,
+            "longitude": 90.40782222028639,
+            "rotation": 180.0
+        },
+        {
+            "latitude": 23.819524907748303,
+            "longitude": 90.43661950497864,
+            "rotation": 90.0
+        },
+        {
+            "latitude": 23.81138001182734,
+            "longitude": 90.39056583213107,
+            "rotation": -90.0
+        },
+        {
+            "latitude": 23.795591536412374,
+            "longitude": 90.37078143806764,
+            "rotation": -90.0
+        },
+        {
+            "latitude": 23.78211450465139,
+            "longitude": 90.37704649618775,
+            "rotation": 180.0
+        },
+        {
+            "latitude": 23.739360947758215,
+            "longitude": 90.37297970407468,
+            "rotation": 0.0
+        },
+        {
+            "latitude": 23.74751035584785,
+            "longitude": 90.3750680567814,
+            "rotation": 0.0
+        },
+        {
+            "latitude": 23.76260050567616,
+            "longitude": 90.36671464595463,
+            "rotation": 180.0
+        },
+        {
+            "latitude": 23.744592725127305,
+            "longitude": 90.41024031289413,
+            "rotation": 180.0
+        },
+        {
+            "latitude": 23.751836377635172,
+            "longitude": 90.40782222028639,
+            "rotation": 90.0
+        },
+        {
+            "latitude": 23.752540600137394,
+            "longitude": 90.39342357794021,
+            "rotation": -90.0
+        },
+        {
+            "latitude": 23.737147440235418,
+            "longitude": 90.39551193064688,
+            "rotation": -90.0
+        }
+    ]
+}
