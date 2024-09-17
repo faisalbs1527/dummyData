@@ -9,6 +9,7 @@
             "riderName": "Arifur Rahman",
             "fuelType": "Petrol",
             "gearType": "Automatic",
+            "color": "White",
             "successfulRides": 150,
             "rating": 4.8,
             "availableRoutes": [
@@ -140,6 +141,7 @@
             "riderName": "Hasan Mahmud",
             "fuelType": "Petrol",
             "gearType": "Manual",
+            "color": "Silver",
             "successfulRides": 200,
             "rating": 4.6,
             "availableRoutes": [
@@ -271,6 +273,7 @@
             "riderName": "Khalilur Rahman",
             "fuelType": "Gas",
             "gearType": "Automatic",
+            "color": "Black",
             "successfulRides": 180,
             "rating": 4.7,
             "availableRoutes": [
@@ -402,6 +405,7 @@
             "riderName": "Rashedul Islam",
             "fuelType": "Petrol",
             "gearType": "Automatic",
+            "color": "White",
             "successfulRides": 90,
             "rating": 4.5,
             "availableRoutes": [
@@ -533,6 +537,7 @@
             "riderName": "Mohammad Tanvir",
             "fuelType": "Gas",
             "gearType": "Automatic",
+            "color": "Red",
             "successfulRides": 120,
             "rating": 4.9,
             "availableRoutes": [
@@ -664,6 +669,7 @@
             "riderName": "Aminul Islam",
             "fuelType": "Petrol",
             "gearType": "Automatic",
+            "color": "Gray",
             "successfulRides": 160,
             "rating": 4.4,
             "availableRoutes": [
@@ -795,6 +801,7 @@
             "riderName": "Riyad Uddin",
             "fuelType": "Petrol",
             "gearType": "Manual",
+            "color": "Silver",
             "successfulRides": 140,
             "rating": 4.3,
             "availableRoutes": [
@@ -926,6 +933,7 @@
             "riderName": "Mofizur Rahman",
             "fuelType": "Gas",
             "gearType": "Manual",
+            "color": "White",
             "successfulRides": 100,
             "rating": 4.7,
             "availableRoutes": [
@@ -1057,6 +1065,7 @@
             "riderName": "Rashedul Islam",
             "fuelType": "Petrol",
             "gearType": "Automatic",
+            "color": "Silver",
             "successfulRides": 110,
             "rating": 4.8,
             "availableRoutes": [
@@ -1188,6 +1197,7 @@
             "riderName": "Shafiqur Rahman",
             "fuelType": "Diesel",
             "gearType": "Manual",
+            "color": "White",
             "successfulRides": 130,
             "rating": 4.4,
             "availableRoutes": [
@@ -1319,6 +1329,7 @@
             "riderName": "Khalid Sheikh",
             "fuelType": "Diesel",
             "gearType": "Manual",
+            "color": "Red",
             "successfulRides": 80,
             "rating": 4.2,
             "availableRoutes": [
@@ -1450,6 +1461,7 @@
             "riderName": "Nasir Uddin",
             "fuelType": "Diesel",
             "gearType": "Automatic",
+            "color": "Silver",
             "successfulRides": 75,
             "rating": 4.3,
             "availableRoutes": [
@@ -1581,6 +1593,7 @@
             "riderName": "Faridul Islam",
             "fuelType": "Petrol",
             "gearType": "Manual",
+            "color": "White",
             "successfulRides": 90,
             "rating": 4.1,
             "availableRoutes": [
@@ -1712,6 +1725,7 @@
             "riderName": "Mohammad Alim",
             "fuelType": "Diesel",
             "gearType": "Manual",
+            "color": "Gray",
             "successfulRides": 85,
             "rating": 4.2,
             "availableRoutes": [
@@ -1843,6 +1857,7 @@
             "riderName": "Shah Alam",
             "fuelType": "Diesel",
             "gearType": "Manual",
+            "color": "Silver",
             "successfulRides": 95,
             "rating": 4.6,
             "availableRoutes": [
@@ -1974,6 +1989,7 @@
             "riderName": "Imran Ahmed",
             "fuelType": "Petrol",
             "gearType": "Automatic",
+            "color": "White",
             "successfulRides": 120,
             "rating": 4.7,
             "availableRoutes": [
@@ -2105,6 +2121,7 @@
             "riderName": "Hasan Mahmud",
             "fuelType": "Gas",
             "gearType": "Automatic",
+            "color": "Red",
             "successfulRides": 105,
             "rating": 4.5,
             "availableRoutes": [
@@ -2236,6 +2253,7 @@
             "riderName": "Jamal Hossain",
             "fuelType": "Petrol",
             "gearType": "Manual",
+            "color": "Gray",
             "successfulRides": 115,
             "rating": 4.4,
             "availableRoutes": [
@@ -2369,6 +2387,7 @@
             "riderName": "Ravi Chandra",
             "fuelType": "Diesel",
             "gearType": "Automatic",
+            "color": "Silver",
             "availableRoutes": [
                 {
                     "fromLocation": {
