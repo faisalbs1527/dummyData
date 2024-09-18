@@ -10,6 +10,7 @@
             "fuelType": "Petrol",
             "gearType": "Automatic",
             "color": "White",
+            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/CarImage/toyotaprius_white.png?raw=true",
             "successfulRides": 150,
             "rating": 4.8,
             "availableRoutes": [
@@ -142,6 +143,7 @@
             "fuelType": "Petrol",
             "gearType": "Manual",
             "color": "Silver",
+            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/CarImage/hondacivic_silver.png?raw=true",
             "successfulRides": 200,
             "rating": 4.6,
             "availableRoutes": [
@@ -273,7 +275,8 @@
             "riderName": "Khalilur Rahman",
             "fuelType": "Gas",
             "gearType": "Automatic",
-            "color": "Black",
+            "color": "White",
+            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/CarImage/toyotacorolla_white.png?raw=true",
             "successfulRides": 180,
             "rating": 4.7,
             "availableRoutes": [
@@ -406,6 +409,7 @@
             "fuelType": "Petrol",
             "gearType": "Automatic",
             "color": "White",
+            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/CarImage/toyotaaxio_white.png?raw=true",
             "successfulRides": 90,
             "rating": 4.5,
             "availableRoutes": [
@@ -538,6 +542,7 @@
             "fuelType": "Gas",
             "gearType": "Automatic",
             "color": "Red",
+            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/CarImage/nissansunny_red.png?raw=true",
             "successfulRides": 120,
             "rating": 4.9,
             "availableRoutes": [
@@ -669,7 +674,8 @@
             "riderName": "Aminul Islam",
             "fuelType": "Petrol",
             "gearType": "Automatic",
-            "color": "Gray",
+            "color": "Red",
+            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/CarImage/toyotapremio_red.png?raw=true",
             "successfulRides": 160,
             "rating": 4.4,
             "availableRoutes": [
@@ -802,6 +808,7 @@
             "fuelType": "Petrol",
             "gearType": "Manual",
             "color": "Silver",
+            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/CarImage/toyotaallion_silver.png?raw=true",
             "successfulRides": 140,
             "rating": 4.3,
             "availableRoutes": [
@@ -934,6 +941,7 @@
             "fuelType": "Gas",
             "gearType": "Manual",
             "color": "White",
+            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/CarImage/suzukialto_white.png?raw=true",
             "successfulRides": 100,
             "rating": 4.7,
             "availableRoutes": [
@@ -1066,6 +1074,7 @@
             "fuelType": "Petrol",
             "gearType": "Automatic",
             "color": "Silver",
+            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/CarImage/toyotacorolla_silver.png?raw=true",
             "successfulRides": 110,
             "rating": 4.8,
             "availableRoutes": [
@@ -1198,6 +1207,7 @@
             "fuelType": "Diesel",
             "gearType": "Manual",
             "color": "White",
+            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/CarImage/toyotapremio_white.png?raw=true",
             "successfulRides": 130,
             "rating": 4.4,
             "availableRoutes": [
@@ -1330,6 +1340,7 @@
             "fuelType": "Diesel",
             "gearType": "Manual",
             "color": "Red",
+            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/CarImage/nissansunny_red.png?raw=true",
             "successfulRides": 80,
             "rating": 4.2,
             "availableRoutes": [
@@ -1462,6 +1473,7 @@
             "fuelType": "Diesel",
             "gearType": "Automatic",
             "color": "Silver",
+            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/CarImage/hondacivic_silver.png?raw=true",
             "successfulRides": 75,
             "rating": 4.3,
             "availableRoutes": [
@@ -1594,6 +1606,7 @@
             "fuelType": "Petrol",
             "gearType": "Manual",
             "color": "White",
+            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/CarImage/toyotaaxio_white.png?raw=true",
             "successfulRides": 90,
             "rating": 4.1,
             "availableRoutes": [
@@ -1726,6 +1739,7 @@
             "fuelType": "Diesel",
             "gearType": "Manual",
             "color": "Gray",
+            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/CarImage/hyundaielatra_gray.png?raw=true",
             "successfulRides": 85,
             "rating": 4.2,
             "availableRoutes": [
@@ -1857,7 +1871,8 @@
             "riderName": "Shah Alam",
             "fuelType": "Diesel",
             "gearType": "Manual",
-            "color": "Silver",
+            "color": "White",
+            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/CarImage/toyotapremio_white.png?raw=true",
             "successfulRides": 95,
             "rating": 4.6,
             "availableRoutes": [
@@ -1990,6 +2005,7 @@
             "fuelType": "Petrol",
             "gearType": "Automatic",
             "color": "White",
+            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/CarImage/toyotaallion_white.png?raw=true",
             "successfulRides": 120,
             "rating": 4.7,
             "availableRoutes": [
@@ -2122,6 +2138,7 @@
             "fuelType": "Gas",
             "gearType": "Automatic",
             "color": "Red",
+            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/CarImage/suzukialto_red.png?raw=true",
             "successfulRides": 105,
             "rating": 4.5,
             "availableRoutes": [
@@ -2254,6 +2271,7 @@
             "fuelType": "Petrol",
             "gearType": "Manual",
             "color": "Gray",
+            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/CarImage/hyundaielatra_gray.png?raw=true",
             "successfulRides": 115,
             "rating": 4.4,
             "availableRoutes": [
@@ -2388,6 +2406,7 @@
             "fuelType": "Diesel",
             "gearType": "Automatic",
             "color": "Silver",
+            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/CarImage/nissansunny_silver.png?raw=true",
             "availableRoutes": [
                 {
                     "fromLocation": {
