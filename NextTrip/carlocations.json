@@ -12,6 +12,7 @@
             "color": "White",
             "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/CarImage/toyotaprius_white.png?raw=true",
             "successfulRides": 150,
+            "reviews": 120,
             "rating": 4.8,
             "availableRoutes": [
                 {
@@ -145,6 +146,7 @@
             "color": "Silver",
             "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/CarImage/hondacivic_silver.png?raw=true",
             "successfulRides": 200,
+            "reviews": 180,
             "rating": 4.6,
             "availableRoutes": [
                 {
@@ -278,6 +280,7 @@
             "color": "White",
             "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/CarImage/toyotacorolla_white.png?raw=true",
             "successfulRides": 180,
+            "reviews": 155,
             "rating": 4.7,
             "availableRoutes": [
                 {
@@ -411,6 +414,7 @@
             "color": "White",
             "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/CarImage/toyotaaxio_white.png?raw=true",
             "successfulRides": 90,
+            "reviews": 83,
             "rating": 4.5,
             "availableRoutes": [
                 {
@@ -544,6 +548,7 @@
             "color": "Red",
             "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/CarImage/nissansunny_red.png?raw=true",
             "successfulRides": 120,
+            "reviews": 97,
             "rating": 4.9,
             "availableRoutes": [
                 {
@@ -677,6 +682,7 @@
             "color": "Red",
             "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/CarImage/toyotapremio_red.png?raw=true",
             "successfulRides": 160,
+            "reviews": 131,
             "rating": 4.4,
             "availableRoutes": [
                 {
@@ -1608,6 +1614,7 @@
             "color": "White",
             "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/CarImage/toyotaaxio_white.png?raw=true",
             "successfulRides": 90,
+            "reviews": 67,
             "rating": 4.1,
             "availableRoutes": [
                 {
@@ -1741,6 +1748,7 @@
             "color": "Gray",
             "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/CarImage/hyundaielatra_gray.png?raw=true",
             "successfulRides": 85,
+            "reviews": 72,
             "rating": 4.2,
             "availableRoutes": [
                 {
@@ -1874,6 +1882,7 @@
             "color": "White",
             "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/CarImage/toyotapremio_white.png?raw=true",
             "successfulRides": 95,
+            "reviews": 75,
             "rating": 4.6,
             "availableRoutes": [
                 {
@@ -2007,6 +2016,7 @@
             "color": "White",
             "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/CarImage/toyotaallion_white.png?raw=true",
             "successfulRides": 120,
+            "reviews": 103,
             "rating": 4.7,
             "availableRoutes": [
                 {
@@ -2140,6 +2150,7 @@
             "color": "Red",
             "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/CarImage/suzukialto_red.png?raw=true",
             "successfulRides": 105,
+            "reviews": 92,
             "rating": 4.5,
             "availableRoutes": [
                 {
@@ -2273,6 +2284,7 @@
             "color": "Gray",
             "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/CarImage/hyundaielatra_gray.png?raw=true",
             "successfulRides": 115,
+            "reviews": 95,
             "rating": 4.4,
             "availableRoutes": [
                 {
@@ -2401,6 +2413,7 @@
             "carName": "Nissan Sunny",
             "model": "2019",
             "successfulRides": 90,
+            "reviews": 78,
             "rating": 4.3,
             "riderName": "Ravi Chandra",
             "fuelType": "Diesel",
