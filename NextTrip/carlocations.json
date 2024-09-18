@@ -816,6 +816,7 @@
             "color": "Silver",
             "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/CarImage/toyotaallion_silver.png?raw=true",
             "successfulRides": 140,
+            "reviews": 128,
             "rating": 4.3,
             "availableRoutes": [
                 {
@@ -949,6 +950,7 @@
             "color": "White",
             "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/CarImage/suzukialto_white.png?raw=true",
             "successfulRides": 100,
+            "reviews": 88,
             "rating": 4.7,
             "availableRoutes": [
                 {
@@ -1082,6 +1084,7 @@
             "color": "Silver",
             "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/CarImage/toyotacorolla_silver.png?raw=true",
             "successfulRides": 110,
+            "reviews": 98,
             "rating": 4.8,
             "availableRoutes": [
                 {
@@ -1215,6 +1218,7 @@
             "color": "White",
             "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/CarImage/toyotapremio_white.png?raw=true",
             "successfulRides": 130,
+            "reviews": 108,
             "rating": 4.4,
             "availableRoutes": [
                 {
@@ -1348,6 +1352,7 @@
             "color": "Red",
             "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/CarImage/nissansunny_red.png?raw=true",
             "successfulRides": 80,
+            "reviews": 56,
             "rating": 4.2,
             "availableRoutes": [
                 {
@@ -1481,6 +1486,7 @@
             "color": "Silver",
             "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/CarImage/hondacivic_silver.png?raw=true",
             "successfulRides": 75,
+            "reviews": 62,
             "rating": 4.3,
             "availableRoutes": [
                 {
