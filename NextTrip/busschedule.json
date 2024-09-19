@@ -533,7 +533,7 @@
                      "busNo": "R-101",
                      "busSchedule": {
                         "departureTime": "20:30",
-                        "arrivalTime": "6:00",
+                        "arrivalTime": "06:00",
                         "pickupPoints": [
                            "Arambag",
                            "Sayedabad",
@@ -662,7 +662,7 @@
                      "busNo": "R-102",
                      "busSchedule": {
                         "departureTime": "21:20",
-                        "arrivalTime": "7:00",
+                        "arrivalTime": "07:00",
                         "pickupPoints": [
                            "Abdullahpur",
                            "Uttara",
@@ -1329,7 +1329,7 @@
                      "busNo": "R-201",
                      "busSchedule": {
                         "departureTime": "20:30",
-                        "arrivalTime": "2:00",
+                        "arrivalTime": "02:00",
                         "pickupPoints": [
                            "Gabtoli",
                            "Kollanpur",
@@ -1459,7 +1459,7 @@
                      "busNo": "R-202",
                      "busSchedule": {
                         "departureTime": "21:00",
-                        "arrivalTime": "4:00",
+                        "arrivalTime": "04:00",
                         "pickupPoints": [
                            "Abdullahpur",
                            "Uttara",
@@ -2125,7 +2125,7 @@
                      "busNo": "R-101",
                      "busSchedule": {
                         "departureTime": "20:30",
-                        "arrivalTime": "6:00",
+                        "arrivalTime": "06:00",
                         "pickupPoints": [
                            "Arambag",
                            "Sayedabad",
@@ -2254,7 +2254,7 @@
                      "busNo": "R-102",
                      "busSchedule": {
                         "departureTime": "21:20",
-                        "arrivalTime": "7:00",
+                        "arrivalTime": "07:00",
                         "pickupPoints": [
                            "Abdullahpur",
                            "Uttara",
@@ -2921,7 +2921,7 @@
                      "busNo": "R-201",
                      "busSchedule": {
                         "departureTime": "20:30",
-                        "arrivalTime": "2:00",
+                        "arrivalTime": "02:00",
                         "pickupPoints": [
                            "Gabtoli",
                            "Kollanpur",
@@ -3051,7 +3051,7 @@
                      "busNo": "R-202",
                      "busSchedule": {
                         "departureTime": "21:00",
-                        "arrivalTime": "4:00",
+                        "arrivalTime": "04:00",
                         "pickupPoints": [
                            "Abdullahpur",
                            "Uttara",
